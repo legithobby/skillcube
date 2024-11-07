@@ -1,0 +1,14 @@
+body{
+  overflow: hidden;
+  margin: 0;
+}
+
+.text{
+  position: absolute;
+  //border: 1px solid gray;
+  //border-radius: 5px;
+  color: maroon;
+  font-family: monospace;
+  font-size: 3.0vh;
+  font-weight: bold;
+}
